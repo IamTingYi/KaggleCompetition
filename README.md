@@ -1,6 +1,4 @@
-## KaggleCompetition
-
-### Binary Classification with a Bank Churn Dataset
+## Binary Classification with a Bank Churn Dataset
 Kaggle Link：<https://www.kaggle.com/competitions/playground-series-s4e1/overview>\
 
 使用工具：

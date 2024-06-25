@@ -2,7 +2,7 @@
 
 ### Binary Classification with a Bank Churn Dataset
 Kaggle Link：\
-<https://www.kaggle.com/competitions/playground-series-s4e1/overview>
+<https://www.kaggle.com/competitions/playground-series-s4e1/overview>\
 使用工具：
 1. Python: pandas, numpy, scikit-learn, matplotlib, seaborn
 2. XGBoost
